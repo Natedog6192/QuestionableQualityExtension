@@ -1,0 +1,59 @@
+body {
+	background-color: white;
+	width: 200px;
+	height: 20px;
+	padding: 10px;
+	margin: 20px;
+}
+
+button {
+	color: rgb(255, 255, 255);
+	position: fixed;
+	left: 25px;
+	top: 20px;
+	font-size: 18px; 
+	line-height: 18px; 
+	padding: 5px;
+	border-radius: 4px; 
+	font-family: Georgia, serif; 
+	background-color: rgb(51, 119, 255);
+	box-shadow: rgba(0, 0, 0, 0.1) 5px 8px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+
+button1 {
+	color: rgb(255, 255, 255);
+	position: fixed;
+	left: 60px;
+	top: 20px;
+	font-size: 18px; 
+	line-height: 18px; 
+	padding: 5px;
+	border-radius: 4px; 
+	font-family: Georgia, serif; 
+	background-color: rgb(51, 119, 255);
+	box-shadow: rgba(0, 0, 0, 0.1) 5px 8px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+
+button2 {
+	color: rgb(255, 255, 255);
+	position: fixed;
+	left: 175px;
+	top: 20px;
+	font-size: 18px; 
+	line-height: 18px; 
+	padding: 5px;
+	border-radius: 4px; 
+	font-family: Georgia, serif; 
+	background-color: rgb(51, 119, 255);
+	box-shadow: rgba(0, 0, 0, 0.1) 5px 8px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+
+button3 {
+	color: rgb(255, 255, 255);
+	position: fixed;
+	left: 225px;
+	top: 20px;
+	font-size: 18px; 
+	line-height: 18px; 
+	padding: 5px;
+	border-radius: 4px; 
+	font-family: Georgia, serif; 
+	background-color: rgb(51, 119, 255);
+	box-shadow: rgba(0, 0, 0, 0.1) 5px 8px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
