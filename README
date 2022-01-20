@@ -1,0 +1,6 @@
+To Use This Extension:
+	open 'popup.js'
+	find the 'studies' array at the top of the file
+	within 'studies' you will place the information for each study
+	formatted: {name: "study_name", link: "study_link"}
+	with each study being seperated by a comma.
